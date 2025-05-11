@@ -1,0 +1,39 @@
+body{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://art.ngfiles.com/images/6499000/6499402_1777540_ales1t0_untitled-6499402.bd9bd58a415a91f6dd06c2c6016468eb.webp?f1741107368');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  font-size: 27px;
+  color:white;
+  font-family: arcade;
+}
+
+h1 {
+  color: lime;
+}
+
+h1:hover {
+  color: yellow; 
+}
+
+li {
+  color: white;
+    font-size: 27px;
+}
+
+h2 {
+  color:red;
+  font-size: 43px;
+}
+
+img {
+  height:100px;
+   width:180px;
+}
+
+header img {
+  height: 60px;
+  width: 60px;
+}
